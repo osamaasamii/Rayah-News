@@ -13,6 +13,7 @@ namespace Rayah_News.Controllers
         public IActionResult Index()
         {
             return View();
+            Console.WriteLine("");
         }
 
         public IActionResult Privacy()
