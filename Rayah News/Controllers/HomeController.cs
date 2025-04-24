@@ -19,6 +19,7 @@ namespace Rayah_News.Controllers
         public IActionResult Privacy()
         {
             return View();
+            Console.WriteLine(  "test fitch ");
         }
 
        
